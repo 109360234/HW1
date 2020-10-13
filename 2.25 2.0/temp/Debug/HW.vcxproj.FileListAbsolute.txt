@@ -1,0 +1,12 @@
+D:\desktop\2.23-2.27\temp\Debug\HW.exe
+D:\desktop\2.23-2.27\temp\Debug\HW.pdb
+D:\desktop\2.5\temp\Debug\HW.exe
+D:\desktop\2.5\temp\Debug\HW.pdb
+D:\desktop\2.25\temp\Debug\HW.exe
+D:\desktop\2.25\temp\Debug\HW.pdb
+D:\desktop\2.25 - 複製\temp\Debug\HW.exe
+D:\desktop\2.25 - 複製\temp\Debug\HW.pdb
+D:\desktop\2.25 2.0\temp\Debug\HW.exe
+D:\desktop\2.25 2.0\temp\Debug\HW.pdb
+D:\desktop\109360234_邵明諒\2.25 2.0\temp\Debug\HW.exe
+D:\desktop\109360234_邵明諒\2.25 2.0\temp\Debug\HW.pdb

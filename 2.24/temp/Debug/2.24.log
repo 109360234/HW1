@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(476,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+D:\desktop\2.24\source\main.c(6,9): warning C4550: 運算式評估為遺漏引數清單的函式
+D:\desktop\2.24\source\main.c(8,23): warning C4474: 'scanf_s': 傳遞給格式字串的引數太多
+D:\desktop\2.24\source\main.c(8,23): message : 預留位置及其參數需要 1 個 variadic 引數，但卻提供了 2 個
+D:\desktop\2.24\source\main.c(11,31): warning C4474: 'printf': 傳遞給格式字串的引數太多
+D:\desktop\2.24\source\main.c(11,31): message : 預留位置及其參數需要 1 個 variadic 引數，但卻提供了 2 個
+D:\desktop\2.24\source\main.c(15,29): warning C4474: 'printf': 傳遞給格式字串的引數太多
+D:\desktop\2.24\source\main.c(15,29): message : 預留位置及其參數需要 1 個 variadic 引數，但卻提供了 2 個
+D:\desktop\2.24\source\main.c(19,29): warning C4474: 'printf': 傳遞給格式字串的引數太多
+D:\desktop\2.24\source\main.c(19,29): message : 預留位置及其參數需要 1 個 variadic 引數，但卻提供了 2 個
+  2.24.vcxproj -> D:\desktop\2.24\2.24\2.24\..\..\temp\Debug\2.24.exe

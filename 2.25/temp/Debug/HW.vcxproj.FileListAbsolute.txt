@@ -1,0 +1,6 @@
+D:\desktop\2.23-2.27\temp\Debug\HW.exe
+D:\desktop\2.23-2.27\temp\Debug\HW.pdb
+D:\desktop\2.5\temp\Debug\HW.exe
+D:\desktop\2.5\temp\Debug\HW.pdb
+D:\desktop\2.25\temp\Debug\HW.exe
+D:\desktop\2.25\temp\Debug\HW.pdb

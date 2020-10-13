@@ -1,0 +1,15 @@
+D:\desktop\2.33\2.33\2.33\bin\Debug\netcoreapp3.1\2.33.exe
+D:\desktop\2.33\2.33\2.33\bin\Debug\netcoreapp3.1\2.33.deps.json
+D:\desktop\2.33\2.33\2.33\bin\Debug\netcoreapp3.1\2.33.runtimeconfig.json
+D:\desktop\2.33\2.33\2.33\bin\Debug\netcoreapp3.1\2.33.runtimeconfig.dev.json
+D:\desktop\2.33\2.33\2.33\bin\Debug\netcoreapp3.1\2.33.dll
+D:\desktop\2.33\2.33\2.33\bin\Debug\netcoreapp3.1\2.33.pdb
+D:\desktop\2.33\2.33\2.33\obj\Debug\netcoreapp3.1\2.33.csprojAssemblyReference.cache
+D:\desktop\2.33\2.33\2.33\obj\Debug\netcoreapp3.1\_2._33.Form1.resources
+D:\desktop\2.33\2.33\2.33\obj\Debug\netcoreapp3.1\2.33.csproj.GenerateResource.cache
+D:\desktop\2.33\2.33\2.33\obj\Debug\netcoreapp3.1\2.33.AssemblyInfoInputs.cache
+D:\desktop\2.33\2.33\2.33\obj\Debug\netcoreapp3.1\2.33.AssemblyInfo.cs
+D:\desktop\2.33\2.33\2.33\obj\Debug\netcoreapp3.1\2.33.csproj.CoreCompileInputs.cache
+D:\desktop\2.33\2.33\2.33\obj\Debug\netcoreapp3.1\2.33.dll
+D:\desktop\2.33\2.33\2.33\obj\Debug\netcoreapp3.1\2.33.pdb
+D:\desktop\2.33\2.33\2.33\obj\Debug\netcoreapp3.1\2.33.genruntimeconfig.cache
